@@ -44,8 +44,8 @@ jobs:
     - run: npm run build
     
     - run: python3 setup.py install
-    - run: mkdocs gh-deploy --force
-    - run: mkdocs --version
+    
+    - run: mkdocs build --config-file ./mkdocs.yml
 
     - name: Deploy to GitHub Pages
       uses: docker://peaceiris/gh-pages:v2.4.0
