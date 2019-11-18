@@ -19,9 +19,9 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_description: A Material Design theme for MkDocs
-site_author: Martin Donath
+site_name: Frytea Material Docs
+site_description: Technology, Android, CI/CD, Git, Cloud Company, Gis, Web, PipeLine and so on.
+site_author: Tianlun Song
 site_url: https://dev.frytea.com/frytea-docs/
 
 # Repository
@@ -69,13 +69,13 @@ plugins:
 extra:
   social:
     - type: globe
-      link: http://struct.cc
+      link: http://www.frytea.com
     - type: github-alt
-      link: https://github.com/squidfunk
+      link: https://github.com/songtianlun
     - type: twitter
-      link: https://twitter.com/squidfunk
+      link: https://twitter.com/tianlun_song
     - type: linkedin
-      link: https://linkedin.com/in/squidfunk
+      link: https://linkedin.com/in/songtianlun
 
 # Extensions
 markdown_extensions:
