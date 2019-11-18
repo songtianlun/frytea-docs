@@ -1,19 +1,17 @@
-[![Travis][travis-image]][travis-link]
-[![Downloads][downloads-image]][downloads-link]
-[![Gitter][gitter-image]][gitter-link]
-[![PyPI][pypi-image]][pypi-link]
-[![dependabot][dependabot-image]][dependabot-link]
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs_sample/images/Frytea-logo-green-3x.png" alt="Frytea logo" width="223">
+<br>Frytea's Material Docs
+</h1>
 
-  [travis-image]: https://travis-ci.org/squidfunk/mkdocs-material.svg?branch=master
-  [travis-link]: https://travis-ci.org/squidfunk/mkdocs-material
-  [downloads-image]: https://img.shields.io/pypi/dm/mkdocs-material.svg
-  [downloads-link]: https://pypistats.org/packages/mkdocs-material
-  [gitter-image]: https://badges.gitter.im/squidfunk/mkdocs-material.svg
-  [gitter-link]: https://gitter.im/squidfunk/mkdocs-material
-  [pypi-image]: https://img.shields.io/pypi/v/mkdocs-material.svg
-  [pypi-link]: https://pypi.python.org/pypi/mkdocs-material
-  [dependabot-image]: https://img.shields.io/badge/dependabot-enabled-06f.svg
-  [dependabot-link]: https://dependabot.com
+
+[![GitHub license](https://img.shields.io/github/license/songtianlun/frytea-docs)](https://github.com/songtianlun/frytea-docs/blob/master/LICENSE)
+[![GitHub Actions status](https://github.com/songtianlun/frytea-docs/workflows/github%20pages/badge.svg)](https://github.com/songtianlun/frytea-docs/actions)
+[![GitHub stars](https://img.shields.io/github/stars/songtianlun/frytea-docs)](https://github.com/songtianlun/frytea-docs/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/songtianlun/frytea-docs)](https://github.com/songtianlun/frytea-docs/network)
+
+<!-- https://shields.io/ -->
+<!-- https://microbadger.com/ -->
+
 
 # Material for MkDocs
 
