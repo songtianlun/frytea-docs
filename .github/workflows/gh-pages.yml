@@ -34,6 +34,8 @@ jobs:
       run: |
         python3 -m pip install --upgrade pip
         python3 -m pip install -r requirements.txt
+        
+    - run: python3 pip install mkdocs-material
 
     - run: mkdocs build --config-file ./mkdocs.yml
 
