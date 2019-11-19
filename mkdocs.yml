@@ -51,10 +51,10 @@ theme:
     tabs: true
   palette:
     primary: Brown
-    accent: Deep Orange
+    accent: 'Deep Orange'
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Courgette
+    code: Courgette Mono
   favicon: assets/images/favicon.png
   logo:
     icon: "\uE80C"
