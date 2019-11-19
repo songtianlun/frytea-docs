@@ -12,47 +12,18 @@
 <!-- https://shields.io/ -->
 <!-- https://microbadger.com/ -->
 
+  
+## Engine
 
-# Material for MkDocs
+- [mkdocs/mkdocs: Project documentation with Markdown - GitHub]
+- [squidfunk/mkdocs-material: A Material Design theme for MkDocs]
+- [peaceiris/actions-mkdocs-gh-pages: makes mkdocs-material Work in GitHub Action]
+- [peaceiris/mkdocs-material-boilerplate: CI/CD example for old mkdocs-material]
 
-A Material Design theme for [MkDocs][1].
-
-[![Material for MkDocs](https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/docs/assets/images/material.png)][2]
-
-  [1]: https://www.mkdocs.org
-  [2]: https://squidfunk.github.io/mkdocs-material/
-
-## Quick start
-
-Install the latest version of Material with `pip`:
-
-``` sh
-pip install mkdocs-material
-```
-
-Append the following line to your project's `mkdocs.yml`:
-
-``` yaml
-theme:
-  name: 'material'
-```
-
-## What to expect
-
-* Responsive design and fluid layout for all kinds of screens and devices,
-  designed to serve your project documentation in a user-friendly way in 39
-  languages with optimal readability.
-
-* Easily customizable primary and accent color, fonts, favicon and logo;
-  straight forward localization through theme extension; integrated with Google
-  Analytics, Disqus and GitHub.
-
-* Well-designed search interface accessible through hotkeys (<kbd>F</kbd> or
-  <kbd>S</kbd>), intelligent grouping of search results, search term
-  highlighting and lazy loading.
-
-For detailed installation instructions and a demo, visit
-https://squidfunk.github.io/mkdocs-material/
+[MkDocs: Project documentation with Markdown - GitHub]: https://www.mkdocs.org
+[mkdocs-material: A Material Design theme for MkDocs]: https://squidfunk.github.io/mkdocs-material/
+[peaceiris/actions-mkdocs-gh-pages: makes mkdocs-material Work in GitHub Action]: https://github.com/peaceiris/actions-mkdocs-gh-pages
+[peaceiris/mkdocs-material-boilerplate: CI/CD example for old mkdocs-material]: https://github.com/peaceiris/mkdocs-material-boilerplate
 
 ## License
 
