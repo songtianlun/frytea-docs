@@ -53,8 +53,8 @@ theme:
     primary: Brown
     accent: 'Deep Orange'
   font:
-    text: Courgette
-    code: Courgette Mono
+    text: Cormorant
+    code: Cormorant Mono
   favicon: assets/images/favicon.png
   logo:
     icon: "\uE80C"
