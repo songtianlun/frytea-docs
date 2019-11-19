@@ -1,0 +1,13 @@
+- Getting started: getting-started.md
+- Extensions:
+    - Admonition: extensions/admonition.md
+    - CodeHilite: extensions/codehilite.md
+    - Footnotes: extensions/footnotes.md
+    - Metadata: extensions/metadata.md
+    - Permalinks: extensions/permalinks.md
+    - PyMdown: extensions/pymdown.md
+  - Specimen: specimen.md
+  - Customization: customization.md
+  - Compliance with GDPR: compliance.md
+  - Release notes: release-notes.md
+
