@@ -6,57 +6,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://dev.frytea.com/frytea-docs/getting-started/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/Program-OS/</loc>
      <lastmod>2019-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://dev.frytea.com/frytea-docs/extensions/admonition/</loc>
-     <lastmod>2019-11-19</lastmod>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://dev.frytea.com/frytea-docs/extensions/codehilite/</loc>
-     <lastmod>2019-11-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dev.frytea.com/frytea-docs/extensions/footnotes/</loc>
-     <lastmod>2019-11-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dev.frytea.com/frytea-docs/extensions/metadata/</loc>
-     <lastmod>2019-11-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dev.frytea.com/frytea-docs/extensions/permalinks/</loc>
-     <lastmod>2019-11-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dev.frytea.com/frytea-docs/extensions/pymdown/</loc>
-     <lastmod>2019-11-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dev.frytea.com/frytea-docs/specimen/</loc>
-     <lastmod>2019-11-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dev.frytea.com/frytea-docs/customization/</loc>
-     <lastmod>2019-11-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dev.frytea.com/frytea-docs/compliance/</loc>
-     <lastmod>2019-11-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://dev.frytea.com/frytea-docs/release-notes/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/Projects/</loc>
      <lastmod>2019-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
