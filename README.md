@@ -15,8 +15,8 @@
 ## Content
 
 - Program & Grammar & Operation System => Program & os
-  - [] MarkDown
-  - [] Linux Command
+  - [ ] MarkDown
+  - [ ] Linux Command
   - [] English
   - [] Java
   - [] YAML
