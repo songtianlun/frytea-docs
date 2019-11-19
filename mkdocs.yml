@@ -112,10 +112,10 @@ markdown_extensions:
 # Page tree
 nav:
   - Material Docs: index.md
-  - Program&OS: 'Program&OS'/index.md
-  - Dev&OS: 'Dev&OS'/index.md
-    - Wiki&Docs: 'Dev&OS'/'Wiki&Docs'/index.md
-      - MkDocs: 'Dev&OS'/'Wiki&Docs'/MkDocs/index.md
+  - Program&OS: "Program&OS"/index.md
+  - Dev&OS: "Dev&OS"/index.md
+    - Wiki&Docs: "Dev&OS"/"Wiki&Docs"/index.md
+      - MkDocs: 'Dev&OS'/"Wiki&Docs"/MkDocs/index.md
   - Projects: Projects/index.md
   - Author's notes: authors-notes.md
   - Contributing: contributing.md
