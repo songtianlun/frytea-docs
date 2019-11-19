@@ -17,30 +17,30 @@
 - Program & Grammar & Operation System => Program & os
   - [ ] MarkDown
   - [ ] Linux Command
-  - [] English
-  - [] Java
-  - [] YAML
-  - [] XML
-  - [] json / csv
-  - [] Bash
-  - [] GNU/Linux distribution
-  - [] Windows
-  - [] OS X
+  - [ ] English
+  - [ ] Java
+  - [ ] YAML
+  - [ ] XML
+  - [ ] json / csv
+  - [ ] Bash
+  - [ ] GNU/Linux distribution
+  - [ ] Windows
+  - [ ] OS X
 - Dev & OpenSource => Dev
-  - [] Android
-  - [] Cloud Computing
-    - [] Servers Host
-    - [] Cloud Drive
-    - [] Blog
-    - [] Wiki / Docs
-  - [] Flutter
-  - [] Vue / Web Dev
-  - [] GitHub Action / Ci/CD
-  - [] LeanCloud / Baas
-  - [] WeiChart Dev
+  - [ ] Android
+  - [ ] Cloud Computing
+    - [ ] Servers Host
+    - [ ] Cloud Drive
+    - [ ] Blog
+    - [ ] Wiki / Docs
+  - [ ] Flutter
+  - [ ] Vue / Web Dev
+  - [ ] GitHub Action / Ci/CD
+  - [ ] LeanCloud / Baas
+  - [ ] WeiChart Dev
 - Projects
-  - [] PlanAssistant
-  - [] Gis-Vue-ChangChun
+  - [ ] PlanAssistant
+  - [ ] Gis-Vue-ChangChun
 - Author's notes
 - Contributing
 - Lincense
