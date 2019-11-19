@@ -112,7 +112,8 @@ markdown_extensions:
 # Page tree
 nav:
   - Material-Docs: index.md
-  - Program-OS: Program-OS/index.md
+  - Program-OS:
+    - Linux-Command: Program-OS/Linux-Command
   - Dev-OS:
     - Wiki-Docs: Dev-OS/Wiki-Docs/index.md
   - Projects: Projects/index.md
