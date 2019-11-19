@@ -113,9 +113,8 @@ markdown_extensions:
 nav:
   - Material-Docs: index.md
   - Program-OS: Program-OS/index.md
-  - Dev-OS: Dev-OS/index.md
+  - Dev-OS:
     - Wiki-Docs: Dev-OS/Wiki_Docs/index.md
-      - MkDocs: Dev-OS/Wiki_Docs/MkDocs/index.md
   - Projects: Projects/index.md
   - Author's notes: authors-notes.md
   - Contributing: contributing.md
