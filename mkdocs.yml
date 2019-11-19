@@ -114,7 +114,7 @@ nav:
   - Material-Docs: index.md
   - Program-OS: Program-OS/index.md
   - Dev-OS:
-    - Wiki-Docs: Dev-OS/Wiki_Docs/index.md
+    - Wiki-Docs: Dev-OS/Wiki-Docs/index.md
   - Projects: Projects/index.md
   - Author's notes: authors-notes.md
   - Contributing: contributing.md
