@@ -15,8 +15,8 @@
   
 ## Engine
 
-- [mkdocs/mkdocs: Project documentation with Markdown - GitHub]
-- [squidfunk/mkdocs-material: A Material Design theme for MkDocs]
+- [MkDocs: Project documentation with Markdown - GitHub]
+- [mkdocs-material: A Material Design theme for MkDocs]
 - [peaceiris/actions-mkdocs-gh-pages: makes mkdocs-material Work in GitHub Action]
 - [peaceiris/mkdocs-material-boilerplate: CI/CD example for old mkdocs-material]
 
