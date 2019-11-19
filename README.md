@@ -48,17 +48,23 @@
 - Contributing
 - Lincense
   
-## Engine
+## Powered
 
-- [MkDocs: Project documentation with Markdown - GitHub]
-- [mkdocs-material: A Material Design theme for MkDocs]
-- [peaceiris/actions-mkdocs-gh-pages: makes mkdocs-material Work in GitHub Action]
-- [peaceiris/mkdocs-material-boilerplate: CI/CD example for old mkdocs-material]
+This site is powered by [MkDocs (A Project documentation with Markdown)] , use [mkdocs-material(A Material Design theme for MkDocs)] theme beautification, refer to [peaceiris/actions-mkdocs-gh-pages: makes mkdocs-material Work in GitHub Action] and [peaceiris/mkdocs-material-boilerplate: CI/CD example for old mkdocs-material] for Git Hub Action configuration.
+
 
 [MkDocs: Project documentation with Markdown - GitHub]: https://www.mkdocs.org
 [mkdocs-material: A Material Design theme for MkDocs]: https://squidfunk.github.io/mkdocs-material/
 [peaceiris/actions-mkdocs-gh-pages: makes mkdocs-material Work in GitHub Action]: https://github.com/peaceiris/actions-mkdocs-gh-pages
 [peaceiris/mkdocs-material-boilerplate: CI/CD example for old mkdocs-material]: https://github.com/peaceiris/mkdocs-material-boilerplate
+
+## Contact me
+
+ - Blog: <https://blog.frytea.com>
+ - HomePage: <https://home.frytea.com>
+ - E-mail: <songtianlun@frytea.com>
+ - WebChart/Phone: (+86)18803979433
+ - Google Voice: (+1)936-6662109
 
 ## License
 

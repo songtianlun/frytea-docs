@@ -1,21 +1,16 @@
 # Author's notes
 
-## Hi, I'm Martin ([@squidfunk][1])
+## Hi, I'm Tianlun Song ([@frytea][1])
 
-I'm a freelance polyglot software engineer and entrepreneur from Cologne,
-Germany with more than 12 years of experience in full-stack web development and
-system programming.
+What you see is my document website, you can see the directory in the home page, the content covers operation system, development, operation and maintenance and so on. I will systematize relevant knowledge as much as possible and make sources where necessary, with the purpose of organizing materials and maximizing knowledge resources to serve people in need.
 
-  [1]: https://github.com/squidfunk
+If you like, you are welcome to contribute to this knowledge warehouse. You can submit pr or contact me directly. I hope this document can be helpful to you.
 
-## Why another theme?
+  [1]: https://home.frytea.com
 
-Some time ago I wanted to release a project to the open, but it was in need of
-user documentation. I checked out the available tools and stuck with MkDocs,
-because it was so simple and easy to use. However, none of the available
-themes convinced me.
-
-I wanted to build something that was usable on all screen sizes from the ground
-up, something beautiful and practical at the same time. Google's Material Design
-appeared to be the perfect fit and this something became Material, a Material
-Design theme for MkDocs.
+## Contact me
+ - Blog: <https://blog.frytea.com>
+ - HomePage: <https://home.frytea.com>
+ - E-mail: <songtianlun@frytea.com>
+ - WebChart/Phone: (+86)18803979433
+ - Google Voice: (+1)936-6662109
