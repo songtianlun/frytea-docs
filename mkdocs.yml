@@ -50,8 +50,8 @@ theme:
   feature:
     tabs: true
   palette:
-    primary: indigo
-    accent: indigo
+    primary: Brown
+    accent: Deep Orange
   font:
     text: Roboto
     code: Roboto Mono
