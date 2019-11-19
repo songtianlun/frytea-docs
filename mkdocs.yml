@@ -62,6 +62,7 @@ theme:
 # Plugins
 plugins:
   - search
+      language: 'en, zh'
   - minify:
       minify_html: true
 
