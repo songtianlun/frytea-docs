@@ -157,7 +157,19 @@ nav:
     - IDE: Efficient-IDE-Tools/IDE/index.md
     - Tools:
       - Wiki-Docs:
-        - MkDocs: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/index.md
+        - MkDocs: 
+          - Getting started: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/getting-started.md
+          - Extensions:
+            - Admonition: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/admonition
+            - CodeHilite: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/codehilite
+            - Footnotes: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/footnotes
+            - Metadata:Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/metadata
+            - Permalinks: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/permalinks
+            - PyMdown: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/pymdown
+            - Specimen: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/specimen
+            - Customization: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/customization
+          - Compliance with GDPR:Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/compliance
+          - Release notes: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/release-notes
         - DokuWiki: Efficient-IDE-Tools/Tools/Wiki-Docs/DokuWiki/index.md
         - Wiki.js: Efficient-IDE-Tools/Tools/Wiki-Docs/Wiki-js/index.md
         - MediaWiki: Efficient-IDE-Tools/Tools/Wiki-Docs/MediaWiki/index.md
