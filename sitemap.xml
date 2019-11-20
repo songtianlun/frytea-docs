@@ -16,8 +16,113 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://docs.github.frytea.com/Program-OS/Program-Grammar/English/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Program-OS/Program-Grammar/Java/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Program-OS/Program-Grammar/YAML/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Program-OS/Program-Grammar/XML/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Program-OS/Program-Grammar/json-csv/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Program-OS/Program-Grammar/Bash/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Program-OS/Operation-System/Linux-distribution/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Program-OS/Operation-System/Windows/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Program-OS/Operation-System/OS-X/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Dev-OS/Dev/Android/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc></loc>
      
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Dev-OS/Dev/Vue/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Dev-OS/Dev/WeiChart/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Dev-OS/Cloud-Computing/Git-Hosting/GitLab/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Dev-OS/Cloud-Computing/Git-Hosting/Gitea/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Dev-OS/Cloud-Computing/Cloud-Drive/Nextcloud/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Dev-OS/Cloud-Computing/Cloud-Drive/SeaFile/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Dev-OS/Cloud-Computing/Cloud-Drive/FileRun/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Dev-OS/Cloud-Computing/Blog/Wordpress/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Dev-OS/Cloud-Computing/Blog/Typecho/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Dev-OS/Cloud-Computing/Blog/Hexo/</loc>
+     <lastmod>2019-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.github.frytea.com/Dev-OS/Cloud-Computing/Blog/Hugo/</loc>
+     <lastmod>2019-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
@@ -31,168 +136,63 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://docs.github.frytea.com/Efficient-IDE-Tools/Efficient-Tools/CI-CD/GitHub-Action/</loc>
+     <lastmod>2019-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://docs.github.frytea.com/Efficient-IDE-Tools/Efficient-Tools/CI-CD/Jenkins/</loc>
+     <lastmod>2019-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://docs.github.frytea.com/Efficient-IDE-Tools/Efficient-Tools/CI-CD/Travis-Ci/</loc>
+     <lastmod>2019-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://docs.github.frytea.com/Efficient-IDE-Tools/IDE/</loc>
+     <lastmod>2019-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://docs.github.frytea.com/Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/</loc>
+     <lastmod>2019-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://docs.github.frytea.com/Efficient-IDE-Tools/Tools/Wiki-Docs/DokuWiki/</loc>
+     <lastmod>2019-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://docs.github.frytea.com/Efficient-IDE-Tools/Tools/Wiki-Docs/Wiki-js/</loc>
+     <lastmod>2019-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://docs.github.frytea.com/Efficient-IDE-Tools/Tools/Wiki-Docs/MediaWiki/</loc>
+     <lastmod>2019-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://docs.github.frytea.com/Efficient-IDE-Tools/Tools/Wiki-Docs/TiddlyWiki/</loc>
+     <lastmod>2019-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://docs.github.frytea.com/Efficient-IDE-Tools/Tools/Wiki-Docs/Docsify/</loc>
+     <lastmod>2019-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://docs.github.frytea.com/Projects/PlanAssistant/</loc>
+     <lastmod>2019-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
+     <loc>https://docs.github.frytea.com/Projects/gis-changchun-info-vue/</loc>
+     <lastmod>2019-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
