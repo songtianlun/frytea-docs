@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="docs/assets/images/Frytea-logo-green-3x.png" alt="Frytea logo" width="223">
+<img src="https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs/assets/images/MindMap-Frytea-Material-Docs.png" alt="Frytea logo" width="223">
 <br>Frytea's Material Docs
 </h1>
 
@@ -14,7 +14,7 @@
 
 ## Content MindMap
 
-![](docs/assets/images/MindMap-Frytea-Material-Docs.png)
+![](https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs/assets/images/MindMap-Frytea-Material-Docs.png)
   
 ## Powered
 
