@@ -14,7 +14,9 @@
 
 ## Description
 
-This site is powered by [MkDocs (A Project documentation with Markdown)] , use [mkdocs-material(A Material Design theme for MkDocs)] theme beautification, refer to [peaceiris/actions-mkdocs-gh-pages: makes mkdocs-material Work in GitHub Action] and [peaceiris/mkdocs-material-boilerplate: CI/CD example for old mkdocs-material] for Git Hub Action configuration.
+This site is powered by [MkDocs] (A Project documentation with Markdown), use [mkdocs-material] (A Material Design theme for MkDocs) theme beautification, refer to [peaceiris/actions-mkdocs-gh-pages] (makes mkdocs-material Work in GitHub Action) and [peaceiris/mkdocs-material-boilerplate] (CI/CD example for old mkdocs-material) for GitHub Action configuration.
+
+This site font use [Cormorant] font provided by [Google font], the theme color is Brown of [material]. 
 
 The content of this site covers programming, operating system, auxiliary tools, efficient work, content organization framework see mind map.
 
@@ -22,12 +24,8 @@ Build this site is to record and organize relevant knowledge, static content hos
 
 ## Content MindMap
 
-![](https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs/assets/images/MindMap-Frytea-Material-Docs.png)
+![MindMap-Frytea-Material-Docs](https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs/assets/images/MindMap-Frytea-Material-Docs.png)
 
-[MkDocs: Project documentation with Markdown - GitHub]: https://www.mkdocs.org
-[mkdocs-material: A Material Design theme for MkDocs]: https://squidfunk.github.io/mkdocs-material/
-[peaceiris/actions-mkdocs-gh-pages: makes mkdocs-material Work in GitHub Action]: https://github.com/peaceiris/actions-mkdocs-gh-pages
-[peaceiris/mkdocs-material-boilerplate: CI/CD example for old mkdocs-material]: https://github.com/peaceiris/mkdocs-material-boilerplate
 
 ## Contact me
 
@@ -36,3 +34,11 @@ Build this site is to record and organize relevant knowledge, static content hos
  - E-mail: <songtianlun@frytea.com>
  - WebChart/Phone: (+86)18803979433
  - Google Voice: (+1)936-6662109
+ 
+[MkDocs]: https://www.mkdocs.org
+[mkdocs-material]: https://squidfunk.github.io/mkdocs-material/
+[peaceiris/actions-mkdocs-gh-pages]: https://github.com/peaceiris/actions-mkdocs-gh-pages
+[peaceiris/mkdocs-material-boilerplate]: https://github.com/peaceiris/mkdocs-material-boilerplate
+[Cormorant]: https://fonts.google.com/specimen/Cormorant
+[Google font]: https://fonts.google.com
+[material]: https://material.io
