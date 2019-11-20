@@ -114,50 +114,58 @@ nav:
   - Material Docs: index.md
   - Program Grammar OS:
     - Program Grammar:
-      - MarkDown:
+      - MarkDown: Program-OS/Program-Grammar/MarkDown
       - Linux Command: Program-OS/Linux-Command.md
-      - English:
-      - Java:
-      - YAML:
-      - XML:
-      - json / csv :
+      - English: Program-OS/Program-Grammar/English
+      - Java: Program-OS/Program-Grammar/Java
+      - YAML: Program-OS/Program-Grammar/YAML
+      - XML: Program-OS/Program-Grammar/XML
+      - json csv: Program-OS/Program-Grammar/json-csv
+      - Bash: Program-OS/Program-Grammar/Bash
     - Operation System:
-      - GNU/Linux distribution:
-      - Windows:
-      - OS X:
+      - GNU/Linux distribution: Program-OS/Operation-System/Linux-distribution
+      - Windows: Program-OS/Operation-System/Windows
+      - OS X: Program-OS/Operation-System/OS-X
   - Dev-OS:
     - Dev:
-      - Android:
-      - Flutter:
-      - Vue:
-      - WeiChart:
+      - Android: Dev-OS/Dev/Android
+      - Flutter: Dev-OS/Dev/Fultter
+      - Vue: Dev-OS/Dev/Vue
+      - WeiChart: Dev-OS/Dev/WeiChart
     - Cloud Computing:
-      - Servers Host:
+      - Git Hosting:
+        - GitLab: Dev-OS/Cloud-Computing/Git-Hosting/GitLab
+        - Gitea: Dev-OS/Cloud-Computing/Git-Hosting/Gitea
       - Cloud Drive:
+        - NextCloud: Dev-OS/Cloud-Computing/Cloud-Drive/Nextcloud
+        - SeaFile: Dev-OS/Cloud-Computing/Cloud-Drive/SeaFile
+        - FileRun: Dev-OS/Cloud-Computing/Cloud-Drive/FileRun
       - Blog:
+        - Wordpress: Dev-OS/Cloud-Computing/Blog/Wordpress
+        - Typecho: Dev-OS/Cloud-Computing/Blog/Typecho
+        - Hexo: Dev-OS/Cloud-Computing/Blog/Hexo
+        - Hugo: Dev-OS/Cloud-Computing/Blog/Hugo
     - License:
-      - OpenSource:
-      - Content:
+      - OpenSource: Dev-OS/Cloud-Computing/License/OpenSouce
+      - Content: OpenSource: Dev-OS/Cloud-Computing/License/Content
   - Efficient & IDE & Tools:
     - Efficient Tools:
       - CI/CD:
-        - GitHub Action:
-        - Jenkins:
-        - Teavis-CI:
-    - IDE:
+        - GitHub Action: Efficient-IDE-Tools/Efficient-Tools/CI-CD/GitHub-Action
+        - Jenkins: Efficient-IDE-Tools/Efficient-Tools/CI-CD/Jenkins
+        - Teavis-CI: Efficient-IDE-Tools/Efficient-Tools/CI-CD/Travis-Ci
+    - IDE: Efficient-IDE-Tools/IDE
     - Tools:
       - Wiki-Docs:
-        - MkDocs:
-        - DokuWiki:
-        - Wiki.js:
-        - MediaWiki:
-        - TiddlyWiki:
-        - Docsify:
+        - MkDocs: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs
+        - DokuWiki: Efficient-IDE-Tools/Tools/Wiki-Docs/DokuWiki
+        - Wiki.js: Efficient-IDE-Tools/Tools/Wiki-Docs/Wiki-js
+        - MediaWiki: Efficient-IDE-Tools/Tools/Wiki-Docs/MediaWiki
+        - TiddlyWiki: Efficient-IDE-Tools/Tools/Wiki-Docs/TiddlyWiki
+        - Docsify: Efficient-IDE-Tools/Tools/Wiki-Docs/Docsify
   - Projects:
-    - PlanAssistant:
-    - gis-changchun-info-vue:
-        
-  - Projects: Projects/index.md
+    - PlanAssistant: Projects/PlanAssistant
+    - gis-changchun-info-vue: Projects/gis-changchun-info-vue
   - Author's notes: authors-notes.md
   - Contributing: contributing.md
   - License: license.md
