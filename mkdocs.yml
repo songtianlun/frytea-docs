@@ -115,7 +115,7 @@ nav:
   - Program Grammar OS:
     - Program Grammar:
       - MarkDown: Program-OS/Program-Grammar/MarkDown/index.md
-      - Linux Command: Program-OS/Linux-Command.md
+      - Linux Command: Program-OS/Program-Grammar/Linux-Command/index.md
       - English: Program-OS/Program-Grammar/English/index.md
       - Java: Program-OS/Program-Grammar/Java/index.md
       - YAML: Program-OS/Program-Grammar/YAML/index.md
@@ -166,7 +166,7 @@ nav:
   - Projects:
     - PlanAssistant: Projects/PlanAssistant/index.md
     - gis-changchun-info-vue: Projects/gis-changchun-info-vue/index.md
-  - Author's notes: authors-notes.md
+  - Author's notes: authors-notes.md7
   - Contributing: contributing.md
   - License: license.md
 
