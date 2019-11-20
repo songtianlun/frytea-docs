@@ -12,14 +12,17 @@
 <!-- https://shields.io/ -->
 <!-- https://microbadger.com/ -->
 
-## Content MindMap
-
-![](https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs/assets/images/MindMap-Frytea-Material-Docs.png)
-  
-## Powered
+## Description
 
 This site is powered by [MkDocs (A Project documentation with Markdown)] , use [mkdocs-material(A Material Design theme for MkDocs)] theme beautification, refer to [peaceiris/actions-mkdocs-gh-pages: makes mkdocs-material Work in GitHub Action] and [peaceiris/mkdocs-material-boilerplate: CI/CD example for old mkdocs-material] for Git Hub Action configuration.
 
+The content of this site covers programming, operating system, auxiliary tools, efficient work, content organization framework see mind map.
+
+Build this site is to record and organize relevant knowledge, static content hosted in GitHub pages, domestic access to use QiNiu CDN acceleration, international access back to github. content related lease pay attention to the license and my contact information, wish you success.
+
+## Content MindMap
+
+![](https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs/assets/images/MindMap-Frytea-Material-Docs.png)
 
 [MkDocs: Project documentation with Markdown - GitHub]: https://www.mkdocs.org
 [mkdocs-material: A Material Design theme for MkDocs]: https://squidfunk.github.io/mkdocs-material/
