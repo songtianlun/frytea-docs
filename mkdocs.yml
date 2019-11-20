@@ -147,7 +147,7 @@ nav:
         - Hugo: Dev-OS/Cloud-Computing/Blog/Hugo
     - License:
       - OpenSource: Dev-OS/Cloud-Computing/License/OpenSouce
-      - Content: OpenSource: Dev-OS/Cloud-Computing/License/Content
+      - Content: Dev-OS/Cloud-Computing/License/Content
   - Efficient & IDE & Tools:
     - Efficient Tools:
       - CI/CD:
