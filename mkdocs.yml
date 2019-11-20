@@ -111,11 +111,52 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Material-Docs: index.md
-  - Program-OS:
-    - Linux-Command: Program-OS/Linux-Command
+  - Material Docs: index.md
+  - Program Grammar OS:
+    - Program Grammar:
+      - MarkDown:
+      - Linux Command: Program-OS/Linux-Command.md
+      - English:
+      - Java:
+      - YAML:
+      - XML:
+      - json / csv :
+    - Operation System:
+      - GNU/Linux distribution:
+      - Windows:
+      - OS X:
   - Dev-OS:
-    - Wiki-Docs: Dev-OS/Wiki-Docs/index.md
+    - Dev:
+      - Android:
+      - Flutter:
+      - Vue:
+      - WeiChart:
+    - Cloud Computing:
+      - Servers Host:
+      - Cloud Drive:
+      - Blog:
+    - License:
+      - OpenSource:
+      - Content:
+  - Efficient & IDE & Tools:
+    - Efficient Tools:
+      - CI/CD:
+        - GitHub Action:
+        - Jenkins:
+        - Teavis-CI:
+    - IDE:
+    - Tools:
+      - Wiki-Docs:
+        - MkDocs:
+        - DokuWiki:
+        - Wiki.js:
+        - MediaWiki:
+        - TiddlyWiki:
+        - Docsify:
+  - Projects:
+    - PlanAssistant:
+    - gis-changchun-info-vue:
+        
   - Projects: Projects/index.md
   - Author's notes: authors-notes.md
   - Contributing: contributing.md

@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs/assets/images/Frytea-logo-green-3x.png" alt="Frytea logo" width="223">
+<img src="docs/assets/images/Frytea-logo-green-3x.png" alt="Frytea logo" width="223">
 <br>Frytea's Material Docs
 </h1>
 
@@ -12,41 +12,9 @@
 <!-- https://shields.io/ -->
 <!-- https://microbadger.com/ -->
 
-## Content
+## Content MindMap
 
-- Program & Grammar & Operation System => 'Program&OS'
-  - [ ] MarkDown
-  - [ ] Linux Command
-  - [ ] English
-  - [ ] Java
-  - [ ] YAML
-  - [ ] XML
-  - [ ] json / csv
-  - [ ] Bash
-  - [ ] GNU/Linux distribution
-  - [ ] Windows
-  - [ ] OS X
-- Dev & OpenSource => 'Dev&OS'
-  - [ ] Android
-  - [ ] Cloud Computing
-    - [ ] Servers Host
-    - [ ] Cloud Drive
-    - [ ] Blog
-  - [ ] Wiki / Docs => 'Wiki&Docs'
-    - [ ] MkDocs
-    - [ ] Docsify
-    - [ ] DokuWiki
-  - [ ] Flutter
-  - [ ] Vue / Web Dev
-  - [ ] GitHub Action / Ci/CD
-  - [ ] LeanCloud / Baas
-  - [ ] WeiChart Dev
-- Projects
-  - [ ] PlanAssistant
-  - [ ] Gis-Vue-ChangChun
-- Author's notes
-- Contributing
-- Lincense
+![](docs/assets/images/MindMap-Frytea-Material-Docs.png)
   
 ## Powered
 
