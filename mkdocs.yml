@@ -179,9 +179,9 @@ nav:
     - PlanAssistant: Projects/PlanAssistant/index.md
     - gis-changchun-info-vue: Projects/gis-changchun-info-vue/index.md
   - Key-Documents:
-    - 中国共产党章程（全文）: Key-Documents/"中国共产党章程（全文）.md"
-    - 中国共产党纪律处分条例: Key-Documents/"中国共产党纪律处分条例.md"
-    - 党的十九大报告（全文）: Key-Documents/"党的十九大报告（全文）.md"
+    - 中国共产党章程（全文）: Key-Documents/中国共产党章程（全文）.md
+    - 中国共产党纪律处分条例: Key-Documents/中国共产党纪律处分条例.md
+    - 党的十九大报告（全文）: Key-Documents/党的十九大报告（全文）.md
   - Author's notes: authors-notes.md
   - Contributing: contributing.md
   - License: license.md
