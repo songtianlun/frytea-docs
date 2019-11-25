@@ -20,7 +20,7 @@ ucore os labs was used as OS Experiments in OS Course Of Dept. of Computer Scien
  
  
  
- ## References
+## References
  
   - [Wikipedia/Unix](https://en.wikipedia.org/wiki/Unix)
   - [BaiduBaike/Minix](https://baike.baidu.com/item/Minix/7106045)
