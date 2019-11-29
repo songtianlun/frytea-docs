@@ -4,12 +4,15 @@ before_script:
   - pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mkdocs
   ## Add your custom theme if not inside a theme_dir
   ## (https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
-  - pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mkdocs-material
+  #- pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mkdocs-material
+  - pip install -r requirements.txt
+  - python3 setup.py install
 
 pages:
   script:
-  - mkdocs build
-  - du -sh public
+  #- mkdocs build
+  - mkdocs build --config-file ./mkdocs.yml
+  - du -sh site
   - mv site public
   artifacts:
     paths:
