@@ -10,7 +10,7 @@ pages:
   script:
   - mkdocs build
   - ls
-  - du [-m] site
+  - du -m site
   - mv site public
   artifacts:
     paths:
