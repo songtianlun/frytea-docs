@@ -9,6 +9,7 @@ before_script:
 pages:
   script:
   - mkdocs build
+  - du -sh public
   - mv site public
   artifacts:
     paths:
