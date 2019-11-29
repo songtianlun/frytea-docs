@@ -26,8 +26,8 @@ site_url: https://docs.github.frytea.com
 
 # Repository
 repo_name: songtianlun/frytea-docs
-repo_url: https://github.com/songtianlun/frytea-docs
-edit_uri: "https://github.com/songtianlun/frytea-docs/edit/master/docs"
+repo_url: https://code.frytea.com/songtianlun/frytea-docs
+edit_uri: "https://code.frytea.com/songtianlun/frytea-docs/edit/master/docs"
 
 # Copyright
 copyright: 'Copyright &copy; 2018 - 2019 frytea'
