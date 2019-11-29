@@ -115,7 +115,7 @@ nav:
   - Program Grammar OS:
     - Core-OS: Program-OS/OS-Core/index.md
     - Program Grammar:
-      - MarkDown: Program-OS/Program-Grammar/MarkDown/index.md
+      - MarkDown: Program-OS/Program-Grammar/Markdown/index.md
       - Linux Command: Program-OS/Program-Grammar/Linux-Command/index.md
       - English: Program-OS/Program-Grammar/English/index.md
       - Java: Program-OS/Program-Grammar/Java/index.md
@@ -130,7 +130,7 @@ nav:
   - Dev-OS:
     - Dev:
       - Android: Dev-OS/Dev/Android/index.md
-      - Flutter: Dev-OS/Dev/Fultter/index.md
+      - Flutter: Dev-OS/Dev/Flutter/index.md
       - Vue: Dev-OS/Dev/Vue/index.md
       - WeiChart: Dev-OS/Dev/WeiChart/index.md
     - Cloud Computing:
@@ -147,8 +147,8 @@ nav:
         - Hexo: Dev-OS/Cloud-Computing/Blog/Hexo/index.md
         - Hugo: Dev-OS/Cloud-Computing/Blog/Hugo/index.md
     - License:
-      - OpenSource: Dev-OS/Cloud-Computing/License/OpenSouce/index.md
-      - Content: Dev-OS/Cloud-Computing/License/Content/index.md
+      - OpenSource: Dev-OS/License/OpenSouce/index.md
+      - Content: Dev-OS/License/Content/index.md
   - Efficient & IDE & Tools:
     - Efficient Tools:
       - CI/CD:
@@ -161,16 +161,16 @@ nav:
         - MkDocs: 
           - Getting started: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/getting-started.md
           - Extensions:
-            - Admonition: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/admonition
-            - CodeHilite: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/codehilite
-            - Footnotes: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/footnotes
-            - Metadata:Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/metadata
-            - Permalinks: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/permalinks
-            - PyMdown: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/pymdown
-            - Specimen: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/specimen
-            - Customization: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/customization
-          - Compliance with GDPR:Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/compliance
-          - Release notes: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/release-notes
+            - Admonition: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/admonition.md
+            - CodeHilite: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/codehilite.md
+            - Footnotes: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/footnotes.md
+            - Metadata:Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/metadata.md
+            - Permalinks: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/permalinks.md
+            - PyMdown: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/pymdown.md
+            - Specimen: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/specimen.md
+            - Customization: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/customization.md
+          - Compliance with GDPR:Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/compliance.md
+          - Release notes: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/release-notes.md
         - DokuWiki: Efficient-IDE-Tools/Tools/Wiki-Docs/DokuWiki/index.md
         - Wiki.js: Efficient-IDE-Tools/Tools/Wiki-Docs/Wiki-js/index.md
         - MediaWiki: Efficient-IDE-Tools/Tools/Wiki-Docs/MediaWiki/index.md
