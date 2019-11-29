@@ -1,10 +1,10 @@
 image: python:alpine
 
 before_script:
-  - pip install mkdocs
+  - pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mkdocs
   ## Add your custom theme if not inside a theme_dir
   ## (https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
-  - pip install mkdocs-material
+  - pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mkdocs-material
 
 pages:
   script:
