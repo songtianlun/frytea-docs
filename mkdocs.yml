@@ -164,12 +164,12 @@ nav:
             - Admonition: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/admonition.md
             - CodeHilite: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/codehilite.md
             - Footnotes: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/footnotes.md
-            - Metadata:Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/metadata.md
+            - Metadata: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/metadata.md
             - Permalinks: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/permalinks.md
             - PyMdown: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/pymdown.md
             - Specimen: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/specimen.md
             - Customization: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/customization.md
-          - Compliance with GDPR:Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/compliance.md
+          - Compliance with GDPR: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/compliance.md
           - Release notes: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/release-notes.md
         - DokuWiki: Efficient-IDE-Tools/Tools/Wiki-Docs/DokuWiki/index.md
         - Wiki.js: Efficient-IDE-Tools/Tools/Wiki-Docs/Wiki-js/index.md
