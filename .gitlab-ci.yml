@@ -18,10 +18,10 @@ pages:
   script:
   - mkdocs build
   #- mkdocs build --config-file ./mkdocs.yml
-  - du -sh site
   - mv site/ public
+  - du -sh public
   artifacts:
     paths:
-    - public
+    - site
   only:
   - master
