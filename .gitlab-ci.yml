@@ -26,8 +26,8 @@
   #only:
   #- master
   
-#image: tangramor/mkdocs
-image: squidfunk/mkdocs-material
+image: tangramor/mkdocs
+#image: squidfunk/mkdocs-material
 
 before_script:
   ## Add your custom theme if not inside a theme_dir
