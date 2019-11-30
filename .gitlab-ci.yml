@@ -1,9 +1,10 @@
-image: python:alpine
+#image: python:alpine
+image: squidfunk/mkdocs-material
 
 before_script:
   #- pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mkdocs
-  - pip install mkdocs
-  - pip install mkdocs-material
+  #- pip install mkdocs
+  #- pip install mkdocs-material
   ## Add your custom theme if not inside a theme_dir
   ## (https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
   #- pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mkdocs-material
