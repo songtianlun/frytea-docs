@@ -17,9 +17,9 @@ before_script:
 pages:
   script:
   - mkdocs build
-  - mkdocs build --config-file ./mkdocs.yml
+  #- mkdocs build --config-file ./mkdocs.yml
   - mv site/ public
-  - du -sh public
+  #- du -sh public
   artifacts:
     paths:
     - public
