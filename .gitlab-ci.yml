@@ -22,7 +22,7 @@ pages:
   - du -sh public
   artifacts:
     paths:
-    - site
+    - public
   only:
   - master
   
