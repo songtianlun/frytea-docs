@@ -22,7 +22,7 @@
 site_name: Frytea Material Docs
 site_description: Technology, Android, CI/CD, Git, Cloud Company, Gis, Web, PipeLine and so on.
 site_author: Tianlun Song
-#site_url: https://songtianlun.pages.frytea.com/
+site_url: "https://songtianlun.pages.frytea.com/frytea-docs/"
 
 # Repository
 repo_name: songtianlun/frytea-docs
