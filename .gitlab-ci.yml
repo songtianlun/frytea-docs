@@ -12,7 +12,7 @@ before_script:
   #- python3 -m pip install --upgrade pip
   #- python3 -m pip install -r requirements.txt
   #- python3 -m pip install mkdocs-material
-  #- python3 setup.py install
+  - python3 setup.py install
 
 pages:
   script:
