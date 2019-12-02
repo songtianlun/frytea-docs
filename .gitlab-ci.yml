@@ -18,7 +18,7 @@ pages:
   script:
   #- mkdocs build
   - mkdocs build --config-file ./mkdocs.yml
-  - mv site/ public
+  - mv site public
   #- du -sh public
   artifacts:
     paths:
