@@ -147,7 +147,7 @@ nav:
         - Hexo: Dev-OS/Cloud-Computing/Blog/Hexo/index.md
         - Hugo: Dev-OS/Cloud-Computing/Blog/Hugo/index.md
     - License:
-      - OpenSource: Dev-OS/License/OpenSouce/index.md
+      - OpenSource: Dev-OS/License/OpenSource/index.md
       - Content: Dev-OS/License/Content/index.md
   - Efficient & IDE & Tools:
     - Efficient Tools:
