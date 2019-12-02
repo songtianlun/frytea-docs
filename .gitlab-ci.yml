@@ -2,7 +2,7 @@ image: python:alpine
 #image: squidfunk/mkdocs-material
 
 before_script:
-  - pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mkdocs
+  - pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mkdocs && mkdocs --version
   #- pip install mkdocs
   #- pip install mkdocs-material
   ## Add your custom theme if not inside a theme_dir
@@ -12,7 +12,7 @@ before_script:
   #- python3 -m pip install --upgrade pip
   #- python3 -m pip install -r requirements.txt
   #- python3 -m pip install mkdocs-material
-  - python3 setup.py install
+  #- python3 setup.py install
 
 pages:
   script:
