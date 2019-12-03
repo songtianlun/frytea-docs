@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs/assets/images/Frytea-logo-green-3x.png" alt="Frytea logo" width="223">
+<img src="https://imagehost-cdn.frytea.com/images/2019/11/24/Frytea-logo-green-3x.png" alt="Frytea logo" width="223">
 <br>Frytea's Material Docs
 </h1>
 
@@ -23,7 +23,7 @@ Build this site is to record and organize relevant knowledge, static content hos
 
 ## Content MindMap
 
-![MindMap-Frytea-Material-Docs](https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs/assets/images/MindMap-Frytea-Material-Docs.png)
+![MindMap-Frytea-Material-Docs](https://imagehost-cdn.frytea.com/images/2019/12/03/MindMap-Frytea-Material-Docs.png)
 
 
 ## Contact me
