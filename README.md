@@ -7,6 +7,7 @@
 [![GitHub license](https://img.shields.io/github/license/songtianlun/frytea-docs)](https://github.com/songtianlun/frytea-docs/blob/master/LICENSE)
 [![pipeline status](https://code.frytea.com/songtianlun/frytea-docs/badges/master/pipeline.svg)](https://code.frytea.com/songtianlun/frytea-docs/commits/master)
 
+
 <!-- https://shields.io/ -->
 <!-- https://microbadger.com/ -->
 
