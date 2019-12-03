@@ -34,8 +34,8 @@ copyright: 'Copyright &copy; 2018 - 2019 frytea'
 
 # Configuration
 theme:
-  name: null
-  custom_dir: 'material'
+  name: 'material'
+#  custom_dir: 'material'
 
   # 404 page
   static_templates:
