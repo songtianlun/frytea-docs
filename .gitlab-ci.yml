@@ -3,6 +3,7 @@ image: python:alpine
 
 variables:
   GIT_SSL_NO_VERIFY: "1"
+  GIT_SUBMODULE_STRATEGY: recursive
 
 
 before_script:
