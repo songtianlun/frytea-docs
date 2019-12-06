@@ -1,6 +1,10 @@
 image: python:alpine
 #image: squidfunk/mkdocs-material
 
+variables:
+  GIT_SSL_NO_VERIFY: "1"
+
+
 before_script:
   - pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mkdocs && mkdocs --version
   #- pip install mkdocs
