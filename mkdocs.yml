@@ -134,6 +134,7 @@ nav:
       - Vue: Dev-OS/Dev/Vue/index.md
       - WeiChart: Dev-OS/Dev/WeiChart/index.md
     - Cloud Computing:
+      - Kubernetes: Dev-OS/Cloud-Computing/Kubernetes/index.md
       - Git Hosting:
         - GitLab: Dev-OS/Cloud-Computing/Git-Hosting/GitLab/index.md
         - Gitea: Dev-OS/Cloud-Computing/Git-Hosting/Gitea/index.md
