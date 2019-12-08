@@ -1,9 +1,9 @@
 image: python:alpine
 #image: squidfunk/mkdocs-material
 
-variables:
-  GIT_SSL_NO_VERIFY: "1"
-  GIT_SUBMODULE_STRATEGY: recursive
+#variables:
+#  GIT_SSL_NO_VERIFY: "1"
+#  GIT_SUBMODULE_STRATEGY: recursive
 
 
 before_script:
