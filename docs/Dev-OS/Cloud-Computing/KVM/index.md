@@ -1,3 +1,4 @@
+```bash
 virt-install is -cpu Penryn,kvm=on,vendor=GenuineIntel,+invtsc,vmware-cpuid-freq=on,+pcid,+ssse3,+sse4.2,+popcnt,+avx,+aes,+xsave,+xsaveopt,check \
 --name Frytea-OSX \
 --memory 8192 \
@@ -18,6 +19,7 @@ virt-install is -cpu Penryn,kvm=on,vendor=GenuineIntel,+invtsc,vmware-cpuid-freq
 --netdev tap,id=net0,ifname=tap0,script=no,downscript=no -device vmxnet3,netdev=net0,id=net0,mac=52:54:00:c9:18:27 \
 --monitor stdio \
 --vga vmware
+```
 
 
 ## 相关文献
