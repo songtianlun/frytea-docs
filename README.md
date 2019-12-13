@@ -22,7 +22,6 @@ Build this site is to record and organize relevant knowledge, static content hos
 
 ![MindMap-Frytea-Material-Docs](https://imagehost-cdn.frytea.com/images/2019/12/03/MindMap-Frytea-Material-Docs.png)
 
-
 ## Contact me
 
  - Blog: <https://blog.frytea.com>
