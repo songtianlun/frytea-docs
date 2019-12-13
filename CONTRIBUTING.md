@@ -24,6 +24,7 @@ a Pull Request with a fix. However, before doing so, please read the
 
 ### Missing a feature?
 
+
 You can request a new feature by submitting an issue to our GitHub Repository.
 If you would like to implement a new feature, please submit an issue with a
 proposal for your work first, to be sure that it is of use for everyone, as
