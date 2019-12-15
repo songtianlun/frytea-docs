@@ -62,7 +62,7 @@ theme:
 # Plugins
 plugins:
   - search:
-      language: 'jp'
+      language: 'en, ja'
   - minify:
       minify_html: true
 
