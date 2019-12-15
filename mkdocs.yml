@@ -61,8 +61,7 @@ theme:
 
 # Plugins
 plugins:
-  - search:
-      language: 'en, ja'
+  - search
   - minify:
       minify_html: true
 
@@ -77,6 +76,8 @@ extra:
       link: https://twitter.com/tianlun_song
     - type: linkedin
       link: https://linkedin.com/in/songtianlun
+  search:
+    language: 'en, ja'
 
 # Extensions
 markdown_extensions:
