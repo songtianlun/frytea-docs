@@ -162,7 +162,7 @@ nav:
     - IDE: Efficient-IDE-Tools/IDE/index.md
     - Tools:
       - Wiki-Docs:
-        - MkDocs: 
+        - MkDocs:
           - Getting started: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/getting-started.md
           - Extensions:
             - Admonition: Efficient-IDE-Tools/Tools/Wiki-Docs/MkDocs/extensions/admonition.md
@@ -185,7 +185,7 @@ nav:
     - gis-changchun-info-vue: Projects/gis-changchun-info-vue/index.md
   - Key-Documents:
     - 中国共产党章程: Key-Documents/中国共产党章程.md
-    
+
     - 党的十九大报告: Key-Documents/党的十九大报告.md
     - 关于新形势下党内政治生活的若干准则: Key-Documents/关于新形势下党内政治生活的若干准则.md
     - 中国共产党廉洁自律准则: Key-Documents/中国共产党廉洁自律准则.md
@@ -193,6 +193,7 @@ nav:
     - 中国共产党问责条例: Key-Documents/中国共产党问责条例.md
     - 中国共产党党内监督条例: Key-Documents/中国共产党党内监督条例.md
     - 中国共产党巡视工作条例: Key-Documents/中国共产党巡视工作条例.md
+    - 中华人民共和国网络安全法: Key-Documents/中华人民共和国网络安全法.md
   - Author's notes: authors-notes.md
   - Contributing: contributing.md
   - License: license.md
