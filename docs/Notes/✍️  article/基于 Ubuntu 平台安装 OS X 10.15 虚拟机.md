@@ -36,7 +36,7 @@ OS X 系统启动时会识别计算机主板，针对非苹果电脑拒绝启动
 
 首先资源：在这里找最新版本的MacOSvmtool : <https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/ >
 
-安装方法很简单，直接将工具以 CD/DVD 的方式挂载进去安装即可！
+安装方法很简单，解压工具找到 `drawin.iso`使用 CD/DVD 的方式挂载进去安装即可！
 
 详细步骤可参考：[Windows下VMmare黑苹果macOS Catalina 10.15虚拟机安装VMware tools工具](https://blog.csdn.net/qq_41855420/article/details/102756313)
 
