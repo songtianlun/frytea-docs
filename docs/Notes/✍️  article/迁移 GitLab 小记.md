@@ -352,3 +352,4 @@ sudo gitlab-rake gitlab:check SANITIZE=true
 - [gitlab迁移](https://zhuanlan.zhihu.com/p/71958507)
 - [Linux下的解压命令小结](https://www.cnblogs.com/cursorhu/p/5891699.html)
 - [Linux tar打包命令](https://blog.csdn.net/shenyunsese/article/details/22798235)
+- [对象存储 OSS > 常用工具 > 命令行工具ossutil > 下载和安装](https://help.aliyun.com/document_detail/120075.html?spm=a2c4g.11186623.6.698.4f072e69CcXU6K)
